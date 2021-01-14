@@ -1,0 +1,352 @@
+diamond v2.0.4.142 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+
+#CPU threads: 4
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/genomes/742723
+Opening the database...  [0.053s]
+#Target sequences to report alignments for: 1
+Reference = /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/db/CAZy.dmnd
+Sequences = 1365566
+Letters = 644730178
+Block size = 2000000000
+Opening the input file...  [0.001s]
+Opening the output file...  [0s]
+Loading query sequences...  [0.003s]
+Masking queries...  [0.01s]
+Building query seed set...  [0.003s]
+Algorithm: Double-indexed
+Building query histograms...  [0.003s]
+Allocating buffers...  [0s]
+Loading reference sequences...  [0.869s]
+Masking reference...  [8.244s]
+Initializing temporary storage...  [0.002s]
+Building reference histograms...  [3.576s]
+Allocating buffers...  [0s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 1/4.
+Building reference seed array...  [2.027s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.458s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.028s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 2/4.
+Building reference seed array...  [2.623s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.405s]
+Building seed filter...  [0s]
+Searching alignments...  [0.024s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 3/4.
+Building reference seed array...  [2.929s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.411s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.023s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 4/4.
+Building reference seed array...  [1.797s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.408s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.023s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 1/4.
+Building reference seed array...  [1.778s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.397s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.022s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 2/4.
+Building reference seed array...  [2.609s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.402s]
+Building seed filter...  [0s]
+Searching alignments...  [0.02s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 3/4.
+Building reference seed array...  [2.871s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.395s]
+Building seed filter...  [0s]
+Searching alignments...  [0.019s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 4/4.
+Building reference seed array...  [1.779s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.395s]
+Building seed filter...  [0s]
+Searching alignments...  [0.02s]
+Deallocating buffers...  [0.111s]
+Clearing query masking...  [0s]
+Computing alignments...  [0.555s]
+Deallocating reference...  [0.034s]
+Loading reference sequences...  [0s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0s]
+Loading query sequences...  [0s]
+Closing the input file...  [0.001s]
+Closing the output file...  [0.001s]
+Closing the database file...  [0.004s]
+Deallocating taxonomy...  [0s]
+Total time = 35.389s
+Reported 65 pairwise alignments, 65 HSPs.
+65 queries aligned.
+diamond v2.0.4.142 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+
+#CPU threads: 4
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/genomes/411468
+Opening the database...  [0.042s]
+#Target sequences to report alignments for: 1
+Reference = /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/db/CAZy.dmnd
+Sequences = 1365566
+Letters = 644730178
+Block size = 2000000000
+Opening the input file...  [0.001s]
+Opening the output file...  [0s]
+Loading query sequences...  [0.005s]
+Masking queries...  [0.017s]
+Building query seed set...  [0.007s]
+Algorithm: Double-indexed
+Building query histograms...  [0.007s]
+Allocating buffers...  [0s]
+Loading reference sequences...  [0.741s]
+Masking reference...  [8.209s]
+Initializing temporary storage...  [0.002s]
+Building reference histograms...  [3.545s]
+Allocating buffers...  [0s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 1/4.
+Building reference seed array...  [1.912s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.457s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.033s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 2/4.
+Building reference seed array...  [2.615s]
+Building query seed array...  [0.004s]
+Computing hash join...  [0.452s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.037s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 3/4.
+Building reference seed array...  [2.889s]
+Building query seed array...  [0.005s]
+Computing hash join...  [0.455s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.031s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 4/4.
+Building reference seed array...  [1.798s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.449s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.03s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 1/4.
+Building reference seed array...  [1.811s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.449s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.026s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 2/4.
+Building reference seed array...  [2.631s]
+Building query seed array...  [0.004s]
+Computing hash join...  [0.448s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.029s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 3/4.
+Building reference seed array...  [2.913s]
+Building query seed array...  [0.004s]
+Computing hash join...  [0.451s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.027s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 4/4.
+Building reference seed array...  [1.803s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.447s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.026s]
+Deallocating buffers...  [0.09s]
+Clearing query masking...  [0s]
+Computing alignments...  [0.559s]
+Deallocating reference...  [0.032s]
+Loading reference sequences...  [0s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0s]
+Loading query sequences...  [0s]
+Closing the input file...  [0s]
+Closing the output file...  [0s]
+Closing the database file...  [0.002s]
+Deallocating taxonomy...  [0s]
+Total time = 35.545s
+Reported 76 pairwise alignments, 76 HSPs.
+76 queries aligned.
+diamond v2.0.4.142 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+
+#CPU threads: 4
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/genomes/243275
+Opening the database...  [0.043s]
+#Target sequences to report alignments for: 1
+Reference = /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/db/CAZy.dmnd
+Sequences = 1365566
+Letters = 644730178
+Block size = 2000000000
+Opening the input file...  [0.001s]
+Opening the output file...  [0s]
+Loading query sequences...  [0.004s]
+Masking queries...  [0.014s]
+Building query seed set...  [0.005s]
+Algorithm: Double-indexed
+Building query histograms...  [0.005s]
+Allocating buffers...  [0s]
+Loading reference sequences...  [0.755s]
+Masking reference...  [8.226s]
+Initializing temporary storage...  [0.002s]
+Building reference histograms...  [3.579s]
+Allocating buffers...  [0s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 1/4.
+Building reference seed array...  [1.937s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.407s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.022s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 2/4.
+Building reference seed array...  [2.638s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.397s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.021s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 3/4.
+Building reference seed array...  [2.916s]
+Building query seed array...  [0.004s]
+Computing hash join...  [0.401s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.021s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 4/4.
+Building reference seed array...  [1.815s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.41s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.019s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 1/4.
+Building reference seed array...  [1.823s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.399s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.021s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 2/4.
+Building reference seed array...  [2.659s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.401s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.017s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 3/4.
+Building reference seed array...  [2.924s]
+Building query seed array...  [0.004s]
+Computing hash join...  [0.392s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.017s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 4/4.
+Building reference seed array...  [1.828s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.393s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.018s]
+Deallocating buffers...  [0.089s]
+Clearing query masking...  [0s]
+Computing alignments...  [0.455s]
+Deallocating reference...  [0.032s]
+Loading reference sequences...  [0s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0s]
+Loading query sequences...  [0s]
+Closing the input file...  [0s]
+Closing the output file...  [0s]
+Closing the database file...  [0.002s]
+Deallocating taxonomy...  [0s]
+Total time = 35.17s
+Reported 56 pairwise alignments, 56 HSPs.
+56 queries aligned.
+diamond v2.0.4.142 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+
+#CPU threads: 4
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/genomes/349741
+Opening the database...  [0.045s]
+#Target sequences to report alignments for: 1
+Reference = /Users/jjuma/Work/Stanley_Onyango/cazyme_project_05102020/db/CAZy.dmnd
+Sequences = 1365566
+Letters = 644730178
+Block size = 2000000000
+Opening the input file...  [0.001s]
+Opening the output file...  [0s]
+Loading query sequences...  [0.003s]
+Masking queries...  [0.013s]
+Building query seed set...  [0.005s]
+Algorithm: Double-indexed
+Building query histograms...  [0.005s]
+Allocating buffers...  [0s]
+Loading reference sequences...  [0.747s]
+Masking reference...  [8.248s]
+Initializing temporary storage...  [0.001s]
+Building reference histograms...  [3.547s]
+Allocating buffers...  [0s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 1/4.
+Building reference seed array...  [1.924s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.385s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.035s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 2/4.
+Building reference seed array...  [2.602s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.382s]
+Building seed filter...  [0s]
+Searching alignments...  [0.028s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 3/4.
+Building reference seed array...  [2.884s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.381s]
+Building seed filter...  [0.001s]
+Searching alignments...  [0.026s]
+Processing query block 1, reference block 1/1, shape 1/2, index chunk 4/4.
+Building reference seed array...  [1.825s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.382s]
+Building seed filter...  [0s]
+Searching alignments...  [0.026s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 1/4.
+Building reference seed array...  [1.828s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.38s]
+Building seed filter...  [0s]
+Searching alignments...  [0.027s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 2/4.
+Building reference seed array...  [2.637s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.379s]
+Building seed filter...  [0s]
+Searching alignments...  [0.025s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 3/4.
+Building reference seed array...  [2.924s]
+Building query seed array...  [0.003s]
+Computing hash join...  [0.389s]
+Building seed filter...  [0s]
+Searching alignments...  [0.025s]
+Processing query block 1, reference block 1/1, shape 2/2, index chunk 4/4.
+Building reference seed array...  [1.834s]
+Building query seed array...  [0.002s]
+Computing hash join...  [0.388s]
+Building seed filter...  [0s]
+Searching alignments...  [0.026s]
+Deallocating buffers...  [0.091s]
+Clearing query masking...  [0s]
+Computing alignments...  [0.373s]
+Deallocating reference...  [0.032s]
+Loading reference sequences...  [0s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0s]
+Loading query sequences...  [0s]
+Closing the input file...  [0.001s]
+Closing the output file...  [0s]
+Closing the database file...  [0.002s]
+Deallocating taxonomy...  [0s]
+Total time = 34.915s
+Reported 134 pairwise alignments, 134 HSPs.
+134 queries aligned.

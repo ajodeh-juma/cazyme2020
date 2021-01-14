@@ -1,0 +1,22 @@
+# You can use this file to create a conda environment for this pipeline:
+#   conda env create -f environment.yaml
+name: run_dbcan
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+
+  # conda-forge packages, sorting now alphabetically, without the channel prefix!
+  - conda-forge::python=3.8
+  - conda-forge::pandas=1.0.5
+  - conda-forge::xlrd
+
+  # bioconda packages
+  - bioconda::diamond
+  - bioconda::entrez-direct
+  - bioconda::hmmer
+  - bioconda::ncbi-genome-download
+  - bioconda::prodigal
+
+

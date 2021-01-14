@@ -1,0 +1,14 @@
+# ignore the folders
+missing22/
+summary/
+genomes/
+db/
+dbcan_output/
+venv/
+.idea/
+
+# ignore documents
+.DS_Store
+methods_dbcan2.docx
+missing22_genomes.zip
+
